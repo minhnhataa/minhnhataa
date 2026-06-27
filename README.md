@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Minh%20Nh%E1%BA%ADt&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descSize=18&descAlignY=58&descColor=ffffffcc" width="100%"/>
 
-<a href="https://github.com/minhnhataa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%40+HACOM+%F0%9F%9A%80;Building+real-time+enterprise+systems+%E2%9A%A1;React+%7C+Node.js+%7C+TypeScript+%7C+Docker;1%2C400%2B+contributions+in+the+last+year+%F0%9F%94%A5" alt="Typing SVG" />
-</a>a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%40+HACOM+%F0%9F%9A%80;Building+real-time+enterprise+systems+%E2%9A%A1;React+%7C+Node.js+%7C+TypeScript+%7C+Docker;1%2C400%2B+contributions+in+the+last+year+%F0%9F%94%A5)](https://github.com/minhnhataa)
 
 </div>
 
@@ -40,7 +38,7 @@ const minhnhat: Developer = {
 > | 🔑 **chat-auth-service** | Auth System | JWT · OAuth2 | 9+ |
 > | 📦 **chat-shared-types** | TypeScript Libs | TypeScript | 10+ |
 >
-> > 💡 **1,400+ contributions** in the last 12 months — private org contributions included
+> > 💡 **1,400+ contributions** in the last 12 months — private org included
 > >
 > > ---
 > >
@@ -82,24 +80,24 @@ const minhnhat: Developer = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=minhnhataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=minhnhataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhataa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=minhnhataa&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=F093FB&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=minhnhataa&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=F093FB&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhnhataa&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhnhataa&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
