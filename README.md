@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Minh%20Nh%E1%BA%ADt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descSize=18&descAlignY=58&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Minh%20Nh%E1%BA%ADt&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descSize=18&descAlignY=58&descColor=ffffffcc" width="100%"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=💻+Fullstack+Developer+%40+HACOM;⚡+Building+real-time+chat+systems;🚀+React+%7C+Node.js+%7C+TypeScript;🌱+Always+learning%2C+always+building)](https://git.io/typing-svg)
+<a href="https://github.com/minhnhataa">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%40+HACOM+%F0%9F%9A%80;Building+real-time+enterprise+systems+%E2%9A%A1;React+%7C+Node.js+%7C+TypeScript+%7C+Docker;1%2C400%2B+contributions+in+the+last+year+%F0%9F%94%A5" alt="Typing SVG" />
+</a>a>
 
 </div>
 
@@ -19,7 +17,7 @@ const minhnhat: Developer = {
   name     : "Minh Nhật",
   username : "minhnhataa",
   role     : "Fullstack Developer",
-  company  : "HACOM Digital Transformation",
+  company  : "HACOM Digital Transformation 🏢",
   location : "Vietnam 🇻🇳",
   education: "CNTT 16-03 · Đại học Đại Nam",
   passion  : ["Clean code", "System design", "Real-time apps"],
@@ -42,7 +40,7 @@ const minhnhat: Developer = {
 > | 🔑 **chat-auth-service** | Auth System | JWT · OAuth2 | 9+ |
 > | 📦 **chat-shared-types** | TypeScript Libs | TypeScript | 10+ |
 >
-> > 💡 **1,400+ contributions** in the last 12 months across private org repos
+> > 💡 **1,400+ contributions** in the last 12 months — private org contributions included
 > >
 > > ---
 > >
@@ -50,7 +48,8 @@ const minhnhat: Developer = {
 > >
 > > <div align="center">
 
-### Frontend
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -58,14 +57,16 @@ const minhnhat: Developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-### Backend
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Database & DevOps
+**Database & DevOps**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -81,14 +82,14 @@ const minhnhat: Developer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhnhataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhataa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=minhnhataa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhataa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=minhnhataa&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=F093FB&currStreakLabel=7C3AED)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=minhnhataa&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=F093FB&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=888)](https://git.io/streak-stats)
 
 </div>
 
@@ -98,7 +99,7 @@ const minhnhat: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=minhnhataa&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=minhnhataa&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -118,7 +119,7 @@ const minhnhat: Developer = {
 
 <div align="center">
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=minhnhataa&style=flat-square&color=7C3AED&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=minhnhataa&style=flat-square&color=7C3AED&label=Profile+Views)
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
