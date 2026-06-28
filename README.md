@@ -1,9 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,40:8e2de2,70:e040fb,100:00d4ff&height=210&section=header&text=%C4%90%E1%BA%ADu%20Cao%20Minh%20Nh%E1%BA%ADt&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%E2%9C%A8%20%C4%90%E1%BA%A1i%20%C4%91%E1%BA%A1o%20ch%C3%AD%20gi%E1%BA%A3n%20%E2%9C%A8&descSize=22&descAlignY=56&descColor=ffe0fb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,40:8e2de2,70:e040fb,100:00d4ff&height=210&section=header&text=%C4%90%E1%BA%ADu%20Cao%20Minh%20Nh%E1%BA%ADt&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=%C4%90%E1%BA%A1i%20%C4%91%E1%BA%A1o%20ch%C3%AD%20gi%E1%BA%A3n&descSize=22&descAlignY=56&descColor=ffe0fb" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E040FB&background=00000000&center=true&vCenter=true&width=620&height=50&lines=Fullstack+Developer+%40+HACOM;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Docker;%E2%9C%A8+%C4%90%E1%BA%A1i+%C4%91%E1%BA%A1o+ch%C3%AD+gi%E1%BA%A3n+%E2%9C%A8)](https://github.com/minhnhataa)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E040FB&background=00000000&center=true&vCenter=true&width=620&height=50&lines=Fullstack+Developer;React+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+Docker;%C4%90%E1%BA%A1i+%C4%91%E1%BA%A1o+ch%C3%AD+gi%E1%BA%A3n)](https://github.com/minhnhataa)
 
 </div>
 
@@ -21,6 +21,7 @@ const developer = {
   name     : "Đậu Cao Minh Nhật",
   role     : "Fullstack Developer",
   location : "Vietnam",
+  stack    : ["React", "Node.js", "TypeScript", "Docker"],
   focus    : ["Clean Code", "System Design"],
   learning : ["Microservices", "Kafka", "K8s"],
   slogan   : "Đại đạo chí giản",
@@ -39,7 +40,7 @@ const developer = {
 <br/>
 
 <!-- ===================== CURRENT WORK ===================== -->
-## 💼 Currently Digital Transformation
+## 💼 Currently @ HACOM Digital Transformation
 
 <table>
 <tr>
@@ -128,7 +129,7 @@ const developer = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minhnhataa&color=e040fb&style=flat-square&label=Profile+Views)
 
-<sub><i>Đại đạo chí giản.</i></sub>
+<sub><i>Đại đạo chí giản — con đường lớn vốn dĩ đơn giản.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:e040fb,70:8e2de2,100:6a11cb&height=110&section=footer" width="100%"/>
 
