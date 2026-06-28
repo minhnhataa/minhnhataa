@@ -19,9 +19,8 @@
 ```typescript
 const developer = {
   name     : "Đậu Cao Minh Nhật",
-  role     : "Fullstack Developer @ HACOM",
+  role     : "Fullstack Developer",
   location : "Vietnam",
-  stack    : ["React", "Node.js", "TypeScript", "Docker"],
   focus    : ["Clean Code", "System Design"],
   learning : ["Microservices", "Kafka", "K8s"],
   slogan   : "Đại đạo chí giản",
@@ -129,7 +128,7 @@ const developer = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minhnhataa&color=e040fb&style=flat-square&label=Profile+Views)
 
-<sub><i>Đại đạo chí giản — con đường lớn vốn dĩ đơn giản.</i></sub>
+<sub><i>Đại đạo chí giản.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:e040fb,70:8e2de2,100:6a11cb&height=110&section=footer" width="100%"/>
 
