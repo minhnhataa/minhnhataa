@@ -39,7 +39,7 @@ const developer = {
 <br/>
 
 <!-- ===================== CURRENT WORK ===================== -->
-## 💼 Currently @ HACOM Digital Transformation
+## 💼 Currently Digital Transformation
 
 <table>
 <tr>
