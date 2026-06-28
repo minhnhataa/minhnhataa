@@ -1,14 +1,14 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Minh%20Nh%E1%BA%ADt&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%9A%A1%20Fullstack%20Developer%20%7C%20Vietnam%20%F0%9F%87%BB%F0%9F%87%B3&descSize=22&descAlignY=62&descColor=a78bfa&stroke=6d28d9&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=%C4%90%E1%BA%ADu%20Cao%20Minh%20Nh%E1%BA%ADt&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Fullstack%20Developer%20%7C%20%C4%90%E1%BA%A1i%20%C4%91%E1%BA%A1o%20ch%C3%AD%20gi%E1%BA%A3n%20%F0%9F%8C%BF&descSize=20&descAlignY=60&descColor=a78bfa&stroke=6d28d9&strokeWidth=2" width="100%"/>
 
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=Hi+there!+I'm+Minh+Nh%E1%BA%ADt+%F0%9F%91%8B;Fullstack+Developer+%40+HACOM+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Docker;1%2C400%2B+contributions+%F0%9F%94%A5+%7C+Clean+Code+Enthusiast;Building+real-time+enterprise+systems+%E2%9A%A1)](https://github.com/minhnhataa)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=%C4%90%E1%BA%ADu+Cao+Minh+Nh%E1%BA%ADt+%F0%9F%91%8B;Fullstack+Developer+%40+HACOM+%F0%9F%9A%80;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Docker;%22%C4%90%E1%BA%A1i+%C4%91%E1%BA%A1o+ch%C3%AD+gi%E1%BA%A3n%22+%F0%9F%8C%BF;1%2C400%2B+contributions+%F0%9F%94%A5+%7C+Clean+Code+Enthusiast)](https://github.com/minhnhataa)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ```typescript
 const minhnhat = {
-  name     : "Minh Nhật",
+  name     : "Đậu Cao Minh Nhật",
   role     : "Fullstack Developer 🚀",
   company  : "HACOM Digital Transformation",
   location : "Vietnam 🇻🇳",
@@ -29,7 +29,7 @@ const minhnhat = {
   passion  : ["Clean Code", "System Design", "Real-time Apps"],
   learning : ["Microservices", "Kafka", "Kubernetes"],
   funFact  : "I turn ☕ into production-ready features daily!",
-  motto    : "Code with purpose, ship with pride 🎯",
+  slogan   : "Đại đạo chí giản 🌿",
 };
 ```
 
@@ -43,19 +43,19 @@ const minhnhat = {
 <div align="center">
 
 > 🏢 **hacom-holding-dx** — Enterprise-grade digital transformation platform
->
-> | Project | Role | Stack | Status |
-> |:---|:---|:---|:---:|
-> | 💬 **chat-web-client** | Lead Frontend | React · TypeScript · TailwindCSS | ![440+](https://img.shields.io/badge/440%2B_commits-active-6366f1?style=flat-square&logo=git) |
-> | 🔧 **chat-api-service** | Backend Dev | Node.js · Express · MongoDB | ![92+](https://img.shields.io/badge/92%2B_commits-active-22c55e?style=flat-square&logo=git) |
-> | 👥 **hr-web-client** | Frontend Dev | React · TypeScript | ![42+](https://img.shields.io/badge/42%2B_commits-active-3b82f6?style=flat-square&logo=git) |
-> | 🗄️ **hr-api-service** | Backend Dev | Node.js · PostgreSQL | ![28+](https://img.shields.io/badge/28%2B_commits-active-f59e0b?style=flat-square&logo=git) |
-> | 🔑 **chat-auth-service** | Auth System | JWT · OAuth2 | ![9+](https://img.shields.io/badge/9%2B_commits-active-ef4444?style=flat-square&logo=git) |
-> | 📦 **chat-shared-types** | TypeScript Libs | TypeScript | ![10+](https://img.shields.io/badge/10%2B_commits-active-8b5cf6?style=flat-square&logo=git) |
->
-> 💡 **1,400+ contributions** in the last 12 months *(includes private org repos)*
->
-> </div>
+
+| Project | Role | Stack | Status |
+|:---|:---|:---|:---:|
+| 💬 **chat-web-client** | Lead Frontend | React · TypeScript · TailwindCSS | ![440+](https://img.shields.io/badge/440%2B_commits-active-6366f1?style=flat-square&logo=git) |
+| 🔧 **chat-api-service** | Backend Dev | Node.js · Express · MongoDB | ![92+](https://img.shields.io/badge/92%2B_commits-active-22c55e?style=flat-square&logo=git) |
+| 👥 **hr-web-client** | Frontend Dev | React · TypeScript | ![42+](https://img.shields.io/badge/42%2B_commits-active-3b82f6?style=flat-square&logo=git) |
+| 🗄️ **hr-api-service** | Backend Dev | Node.js · PostgreSQL | ![28+](https://img.shields.io/badge/28%2B_commits-active-f59e0b?style=flat-square&logo=git) |
+| 🔑 **chat-auth-service** | Auth System | JWT · OAuth2 | ![9+](https://img.shields.io/badge/9%2B_commits-active-ef4444?style=flat-square&logo=git) |
+| 📦 **chat-shared-types** | TypeScript Libs | TypeScript | ![10+](https://img.shields.io/badge/10%2B_commits-active-8b5cf6?style=flat-square&logo=git) |
+
+💡 **1,400+ contributions** in the last 12 months *(includes private org repos)*
+
+</div>
 
 ---
 
@@ -117,7 +117,7 @@ const minhnhat = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minhnhataa&theme=tokyo-night&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=Minh%20Nh%E1%BA%ADt's%20Contribution%20Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minhnhataa&theme=tokyo-night&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&custom_title=%C4%90%E1%BA%ADu%20Cao%20Minh%20Nh%E1%BA%ADt's%20Contribution%20Graph"/>
 
 </div>
 
@@ -130,9 +130,9 @@ const minhnhat = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhnhataa/minhnhataa/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhnhataa/minhnhataa/output/github-contribution-grid-snake.svg"/>
-      <img alt="github-snake" src="https://raw.githubusercontent.com/minhnhataa/minhnhataa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhnhataa/minhnhataa/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/minhnhataa/minhnhataa/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -154,7 +154,7 @@ const minhnhat = {
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=%C4%90%E1%BA%A1i%20%C4%91%E1%BA%A1o%20ch%C3%AD%20gi%E1%BA%A3n&author=%C4%90%E1%BA%ADu%20Cao%20Minh%20Nh%E1%BA%ADt)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -183,7 +183,7 @@ const minhnhat = {
 
 <br/>
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+*"Đại đạo chí giản — Con đường lớn vốn dĩ đơn giản."*
 
 <br/>
 
