@@ -116,7 +116,7 @@ const developer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhnhataa)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhnhataa@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daucaocinhnhat@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/minhnhataa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minhnhataa)
 
@@ -129,7 +129,9 @@ const developer = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minhnhataa&color=e040fb&style=flat-square&label=Profile+Views)
 
-<sub><i>Đại đạo chí giản — con đường lớn vốn dĩ đơn giản.</i></sub>
+<br/>
+
+### Đại đạo chí giản
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,30:e040fb,70:8e2de2,100:6a11cb&height=110&section=footer" width="100%"/>
 
